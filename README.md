@@ -5,6 +5,7 @@
 dwm,
 st,
 slstatus,
+dmenu,
 azukifontB,
 xcompmgr,
 feh,
