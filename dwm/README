@@ -1,5 +1,5 @@
 automata fork
-/
+be sure to add "exec dwm" to your ~/.xinitrc file for automatic startup when launching X
 /
 /
 dwm - dynamic window manager
