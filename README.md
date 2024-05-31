@@ -5,6 +5,7 @@
 dwm,
 st,
 slstatus,
+pywal,
 dmenu,
 azukifontB,
 xcompmgr,
